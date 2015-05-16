@@ -1,0 +1,1 @@
+Open source chrome extension used to control the Sonos device suite inside the Chrome browser.
